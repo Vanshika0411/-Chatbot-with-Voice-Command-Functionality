@@ -5,6 +5,7 @@ Key Components:
 Speech-to-Text (STT):
 
 Converts spoken words into text.
+
 User Interface (UI):
 
 Includes a microphone button for voice input and an audio playback feature for responses.
